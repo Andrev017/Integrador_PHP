@@ -1,0 +1,44 @@
+
+.nom_inicio{
+    background-color: #264653;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    height: 150px;
+    padding: 50px 20%;
+}
+
+.btn{
+    display: inline-block;
+    padding: 0 35px;
+    font-size: 400;
+    text-decoration: none;
+    font-size: 15px;
+
+}
+
+.btn :hover{
+    transform: scale(1.3);
+    color: black;
+    font-size: 17px;
+    background-color: #264653;
+}
+
+.btn button {
+    font-weight: 700;
+    color: black;
+    padding: 9px 25px;
+    background: #eceff1;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+.btn btn-success{
+    display: inline-block;
+    padding: 0 35px;
+    font-size: 400;
+    text-decoration: none;
+    font-size: 15px;
+}
